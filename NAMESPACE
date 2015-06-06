@@ -1,0 +1,6 @@
+export(ROC, roctable, scaling, TOC, uncertainty)
+import(raster)
+import(methods)
+importFrom(bit, as.bit)
+importFrom(rgdal, CRSargs)
+exportClasses(Roc, Toc)
