@@ -1,5 +1,5 @@
-43da354e4a0a619e5c4ffe90e11d65ac *DESCRIPTION
-2b1be9e75c6b2e22d153334d23652ba4 *NAMESPACE
+1f69d2d6d35efe80718928b63a8d2b80 *DESCRIPTION
+ad25532d03e4b2b981c124caab311011 *NAMESPACE
 8eeefea354b2426df4b5765038ce1499 *R/AAAClasses.R
 dd3dfc22a18bbdcf68b771f01eb07d5e *R/ROC.R
 f3741efd870c5e1033eb6ec24a4078c7 *R/ROCnosp.R
@@ -20,7 +20,7 @@ fb8627ff30327fd10cea1c83e5a5271d *inst/external/MASK4.RDC
 2f79236835fb000c4660099cae845c4e *inst/external/Prob_Map2.RDC
 baf6248a2bc106a7a0c5f22e9177e279 *inst/external/Prob_Map2.rst
 a82d3d8f02c8c78d8e4e7d56d68237a8 *man/ROC.Rd
-d1a113dc04dc230bed48355a6af367c6 *man/TOC-package.Rd
+abb86594e9eb2c77bab58a9657e265ee *man/TOC-package.Rd
 c99e8b47608a330dbb44c6ead87cfeb9 *man/TOC.Rd
 b245b5e667d9eac6916d99d174dee951 *man/Toc-classes.Rd
 b3399fa12712f5daf2eab1a08d066835 *man/plot.Rd
