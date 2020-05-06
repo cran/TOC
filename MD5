@@ -1,4 +1,4 @@
-e648deeac5eeee24f27e4b99ea050482 *DESCRIPTION
+7d53ad36008faa2d821040b09c859c57 *DESCRIPTION
 a8d3f50c09d73f7e267d3be59abf2ea8 *NAMESPACE
 8eeefea354b2426df4b5765038ce1499 *R/AAAClasses.R
 dd3dfc22a18bbdcf68b771f01eb07d5e *R/ROC.R
@@ -17,13 +17,13 @@ d9dac149a6e63bbe30c61d8a2ee58dca *R/scaling.R
 850ddb0d731208f3d24f56d1a62fafcc *inst/external/Change_Map2b.rst
 fb8627ff30327fd10cea1c83e5a5271d *inst/external/MASK4.RDC
 7f253b8ac7a7f820ccbfec9f1a37ba2d *inst/external/MASK4.rst
-2f79236835fb000c4660099cae845c4e *inst/external/Prob_Map2.RDC
+2f79236835fb000c4660099cae845c4e *inst/external/Prob_Map2.rdc
 baf6248a2bc106a7a0c5f22e9177e279 *inst/external/Prob_Map2.rst
-a82d3d8f02c8c78d8e4e7d56d68237a8 *man/ROC.Rd
-6edfa6129061314948c113f859042725 *man/TOC-package.Rd
-c99e8b47608a330dbb44c6ead87cfeb9 *man/TOC.Rd
+196e725d133b779c75467f7987f45e7d *man/ROC.Rd
+874fa932935f0366c345b3e7bb2d3887 *man/TOC-package.Rd
+9c7dc6291a6b0a1755693c82e211cadf *man/TOC.Rd
 b245b5e667d9eac6916d99d174dee951 *man/Toc-classes.Rd
-b3399fa12712f5daf2eab1a08d066835 *man/plot.Rd
+3a08613fc87493d2440c1d89155cf721 *man/plot.Rd
 01ee739cc22c4a648956e70627cf506b *man/roctable.Rd
 9c632d59af5b5c08de351dfd220c6626 *man/scaling.Rd
 d9be5ecb83ce57d6bf06b3aa5d318377 *man/uncertainty.Rd
